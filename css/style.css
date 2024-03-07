@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --primary: blue;
+  --default-time: 0.4s;
+  --persentage: 50%;
+  --dark: #131313;
+  --light: #f1f1f1;
+  --font-size: 20px;
+}
